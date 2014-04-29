@@ -1,3 +1,5 @@
+//Jori Platt
+
 #include <MIDI.h>
 #include <midi_Defs.h>
 #include <midi_Namespace.h>
